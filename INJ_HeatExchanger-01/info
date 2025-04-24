@@ -1,14 +1,14 @@
 {
-  "uuid": "ed97cc5584dd3985d80473ee68c77a6f",
-  "path": "Offline/INJ_HeatExchanger",
-  "name": "INJ_HeatExchanger",
+  "uuid": "6ef10e23c89360d9025fb4d4ea15102a",
+  "path": "Offline/INJ_HeatExchanger-01",
+  "name": "INJ_HeatExchanger-01",
   "content": "",
-  "created_at": "2025-04-23 09:20:12",
-  "updated_at": "2025-04-24 15:18:25",
+  "created_at": "2025-04-24 15:20:32",
+  "updated_at": "2025-04-24 18:53:04",
   "stick": "",
   "documents": [
     {
-      "uuid": "9f030780498ecc57c5285d03adce8191",
+      "uuid": "3a8ab08f0bd3de1d28cb57d6da9ec7f4",
       "title": "INJ_HE",
       "description": "",
       "docType": "1",
@@ -21,10 +21,10 @@
         "f942f8e244294bb7b1d0d99120824d33": 1,
         "0b2d026a81b74e19a995b3509dba025a": 1,
         "779c71170c274f9d8daf8930bc2e85b7": 2,
-        "863b0c0df0104d2d9fd39dea3ed59afc": 1,
         "ef426d4a8d544b74a9057e9a2a21b39a": 2,
         "404aa9221ff94de597b8734806e7c74f": 2,
-        "da85efb77378462aaaa3d5ff7db1c1dd": 2
+        "da85efb77378462aaaa3d5ff7db1c1dd": 2,
+        "daa3cf3493c84fa3b0b6a6d427d23f0b": 1
       },
       "BOM": [
         [
@@ -47,15 +47,15 @@
           }
         ],
         [
-          "AC-DC 5V 700mA 3.5W Power Supply",
+          "DC005-2.0MM",
           1,
-          "POWER_SUPPLY_30X20",
-          "DC1",
+          "DC-IN-TH_DC005",
+          "DC3",
           {
-            "Manufacturer Part": "AC-DC 5V 700mA 3.5W Power Supply",
-            "Manufacturer": "",
-            "Supplier": "",
-            "Supplier Part": ""
+            "Manufacturer Part": "DC005-2.0MM",
+            "Manufacturer": "SOFNG",
+            "Supplier": "LCSC",
+            "Supplier Part": "C111567"
           }
         ],
         [
@@ -155,15 +155,14 @@
           }
         ]
       ],
-      "updateTime": 1745431022,
+      "updateTime": 1745494293,
       "createTime": 1745374813,
       "histories": [],
       "created_at": "2025-04-23 09:20:13",
-      "updated_at": "2025-04-24 00:57:02"
+      "updated_at": "2025-04-24 18:31:33"
     },
     {
-      "uuid": "22526cc510ae9a82ec722debf9171c23",
-      "puuid": "ed97cc5584dd3985d80473ee68c77a6f",
+      "uuid": "a80e45611c8c639fc4509c4e8477a355",
       "title": "PCB_INJ_HeatExchanger",
       "filename": "PCB_INJ_HeatExchanger.json",
       "description": "",
@@ -171,7 +170,6 @@
       "master": "",
       "thumb": "/images/thumb-default.png",
       "components": {
-        "e7fdaf84bb104c339d3cb472d0fa9499": 1,
         "e51909bf23504bf8a04c047f1f5257e0": 2,
         "2412ff1a5cde4d0a98768e793bc9c04d": 1,
         "b19f93da4f334d22902c742c042b6e0a": 2,
@@ -179,7 +177,8 @@
         "562d77a546a24e4f83c78207be689c00": 1,
         "480e687dc53f46b3afd29b5f18448a90": 2,
         "19c77e72422b43b59c26b9fa67af5de4": 2,
-        "c2803222ad4b48fb94db0de548a6280a": 2
+        "c2803222ad4b48fb94db0de548a6280a": 2,
+        "1337670005c6484c999f9b4c272ee9fe": 1
       },
       "BOM": [
         [
@@ -286,16 +285,16 @@
           }
         ]
       ],
-      "updateTime": 1745459192,
+      "updateTime": 1745495584,
       "createTime": 1745383502,
       "histories": [],
       "created_at": "2025-04-23 11:45:02",
-      "updated_at": "2025-04-24 08:46:32"
+      "updated_at": "2025-04-24 18:53:04"
     }
   ],
   "sort": [],
-  "title": "INJ_HeatExchanger",
-  "foldername": "INJ_HeatExchanger",
-  "schfilename": "INJ_HeatExchanger.json",
-  "schfilemtime": 1745482705988
+  "title": "INJ_HeatExchanger-01",
+  "foldername": "INJ_HeatExchanger-01",
+  "schfilename": "INJ_HeatExchanger-01.json",
+  "schfilemtime": 1745494293151
 }
