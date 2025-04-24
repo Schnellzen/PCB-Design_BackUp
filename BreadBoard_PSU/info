@@ -1,0 +1,118 @@
+{
+  "uuid": "e0825a1af53d5d36e83809c11c199850",
+  "path": "Offline/BreadBoard_PSU",
+  "name": "BreadBoard_PSU",
+  "content": "",
+  "created_at": "2024-12-03 19:21:07",
+  "updated_at": "2024-12-03 21:25:42",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "84e47a0be83131e5a6aa0f3d8f3a2d8d",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "daa3cf3493c84fa3b0b6a6d427d23f0b": 1,
+        "a9aa2b14f188405792fa87ac344499a4": 2
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "DC005-2.0MM",
+          1,
+          "DC-IN-TH_DC005",
+          "DC1",
+          {
+            "Manufacturer Part": "DC005-2.0MM",
+            "Manufacturer": "SOFNG",
+            "Supplier": "LCSC",
+            "Supplier Part": "C111567"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x2",
+          2,
+          "HDR-M-2.54_1X2",
+          "J1,J2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C124375"
+          }
+        ]
+      ],
+      "updateTime": 1733229329,
+      "createTime": 1732727248,
+      "histories": [],
+      "created_at": "2024-11-28 00:07:28",
+      "updated_at": "2024-12-03 19:35:29"
+    },
+    {
+      "uuid": "9e2be5e47f8dfb0c738d080aa3b20e65",
+      "puuid": "e0825a1af53d5d36e83809c11c199850",
+      "title": "PCB_BreadBoard_PSU",
+      "filename": "PCB_BreadBoard_PSU.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "1337670005c6484c999f9b4c272ee9fe": 1,
+        "70aa5812f21f4991bf427395d51849f4": 2
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "DC005-2.0MM",
+          1,
+          "DC-IN-TH_DC005",
+          "DC1",
+          {
+            "Manufacturer Part": "DC005-2.0MM",
+            "Manufacturer": "SOFNG",
+            "Supplier": "LCSC",
+            "Supplier Part": "C111567"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x2",
+          2,
+          "HDR-M-2.54_1X2",
+          "J1,J2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C124375"
+          }
+        ]
+      ],
+      "updateTime": 1733235942,
+      "createTime": 1733229608,
+      "histories": [],
+      "created_at": "2024-12-03 19:40:08",
+      "updated_at": "2024-12-03 21:25:42"
+    }
+  ],
+  "sort": [],
+  "title": "BreadBoard_PSU",
+  "foldername": "BreadBoard_PSU",
+  "schfilename": "BreadBoard_PSU.json",
+  "schfilemtime": 1733229329252
+}

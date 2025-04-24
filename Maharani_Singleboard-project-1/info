@@ -1,0 +1,586 @@
+{
+  "uuid": "85c8e8cc06aba1544bf5e075f791b4c6",
+  "path": "Offline/Maharani_Singleboard-project-1",
+  "name": "Maharani_Singleboard-project-1",
+  "content": "",
+  "created_at": "2024-12-25 20:16:32",
+  "updated_at": "2025-01-07 22:23:44",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "521d55addadd5eb467451df0c76d4781",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "23c93ff302d4480986f945eb293dd48f": 1,
+        "0f3da40c8c294a9fa564fe26a6c43396": 1,
+        "4547a00a9d6c48d9bedf070f1207112e": 1,
+        "eaa76950fd7343a1953943ee7b9978d3": 1,
+        "32f48159e15040988d4a63193412439f": 1,
+        "2ec4fcbf70fb41219af4af02d15ecd5a": 2,
+        "daa3cf3493c84fa3b0b6a6d427d23f0b": 1,
+        "d585fc68a0c84c31b5617c092866f8ab": 7,
+        "3ec77201bbcd4ecd8722658d581a4e60": 5,
+        "7194d9d6c9f74e3ab5322c3720c537aa": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "HC05",
+          1,
+          "HC05",
+          "BT1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "TTL-BOARD",
+          7,
+          "CONN-XH2.54-3PIN",
+          "CN1,CN2,CN3,CN4,CN5,CN6,CN7",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "DC005-2.0MM",
+          1,
+          "DC-IN-TH_DC005",
+          "DC1",
+          {
+            "Manufacturer Part": "DC005-2.0MM",
+            "Manufacturer": "SOFNG",
+            "Supplier": "LCSC",
+            "Supplier Part": "C111567"
+          }
+        ],
+        [
+          "DC-DC mini560",
+          2,
+          "MINI560",
+          "DC2,DC4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "LED_SD",
+          1,
+          "HDR-F-2.54_1X2",
+          "H1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C49661"
+          }
+        ],
+        [
+          "LED_BT",
+          1,
+          "HDR-F-2.54_1X2",
+          "H2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C49661"
+          }
+        ],
+        [
+          "LED_MPU",
+          3,
+          "HDR-F-2.54_1X2",
+          "H3,H4,H5",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C49661"
+          }
+        ],
+        [
+          "H1",
+          1,
+          "HDR-F-2.54_1X4",
+          "MPU9250",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C225501"
+          }
+        ],
+        [
+          "Button",
+          1,
+          "CONN-TH_4P-P2.50-XH2.54-4P",
+          "P1",
+          {
+            "Manufacturer Part": "XH-2.54-4P",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900003933"
+          }
+        ],
+        [
+          "MINI360BUCK COPY",
+          1,
+          "MINI360BUCK",
+          "REG9V",
+          {
+            "Manufacturer Part": "Mini360",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "MICROSD SHIELD WEMOS D1 MINI",
+          1,
+          "MICROSD_SHIELD_WEMOS_D1_MINI",
+          "SD1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "Aliexpress",
+            "Supplier Part": "Micro SD V1.2.0"
+          }
+        ],
+        [
+          "OPENRB",
+          1,
+          "OPENRB - QUANTAQ",
+          "U1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ]
+      ],
+      "updateTime": 1735622411,
+      "createTime": 1735132592,
+      "histories": [],
+      "created_at": "2024-12-25 20:16:32",
+      "updated_at": "2024-12-31 12:20:11"
+    },
+    {
+      "uuid": "68da4a6c04e4125ee95fb009b6cf5ad5",
+      "puuid": "85c8e8cc06aba1544bf5e075f791b4c6",
+      "title": "PCB_Maharani_Singleboard-project-1",
+      "filename": "PCB_Maharani_Singleboard-project-1.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "e777833d61ca43c99ef2c2ca36d6e717": 1,
+        "becaffe5aff54a569d548dfa31daf7dd": 7,
+        "1337670005c6484c999f9b4c272ee9fe": 1,
+        "10cd443cc2f0478ab0c79b23d3315625": 2,
+        "21473b495b6340c992965357d5701779": 1,
+        "f8b655db7a304c00b68ae6fefad4ee14": 1,
+        "dce36b6bc7f0490fac671937a619b36a": 1,
+        "c4c18e003efb4846b80af01b719a08a9": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "HC05",
+          1,
+          "HC05",
+          "BT1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "TTL-BOARD",
+          7,
+          "CONN-XH2.54-3PIN",
+          "CN1,CN2,CN3,CN4,CN5,CN6,CN7",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "DC005-2.0MM",
+          1,
+          "DC-IN-TH_DC005",
+          "DC1",
+          {
+            "Manufacturer Part": "DC005-2.0MM",
+            "Manufacturer": "SOFNG",
+            "Supplier": "LCSC",
+            "Supplier Part": "C111567"
+          }
+        ],
+        [
+          "DC-DC mini560",
+          2,
+          "MINI560",
+          "DC2,DC4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "H1",
+          1,
+          "HDR-F-2.54_1X4",
+          "MPU9250",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C225501"
+          }
+        ],
+        [
+          "MINI360BUCK COPY",
+          1,
+          "MINI360BUCK",
+          "REG9V",
+          {
+            "Manufacturer Part": "Mini360",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "MICROSD SHIELD WEMOS D1 MINI",
+          1,
+          "MICROSD_SHIELD_WEMOS_D1_MINI",
+          "SD1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "Aliexpress",
+            "Supplier Part": "Micro SD V1.2.0"
+          }
+        ],
+        [
+          "OPENRB",
+          1,
+          "OPENRB - QUANTAQ",
+          "U1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ]
+      ],
+      "updateTime": 1735577050,
+      "createTime": 1735574953,
+      "histories": [],
+      "created_at": "2024-12-30 23:09:13",
+      "updated_at": "2024-12-30 23:44:10"
+    },
+    {
+      "uuid": "629cc4971dfd7d9627e85b3a6a38ccb3",
+      "puuid": "85c8e8cc06aba1544bf5e075f791b4c6",
+      "title": "PCB_Maharani_Singleboard-project-2",
+      "filename": "PCB_Maharani_Singleboard-project-2.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "e777833d61ca43c99ef2c2ca36d6e717": 1,
+        "becaffe5aff54a569d548dfa31daf7dd": 7,
+        "1337670005c6484c999f9b4c272ee9fe": 1,
+        "10cd443cc2f0478ab0c79b23d3315625": 2,
+        "21473b495b6340c992965357d5701779": 1,
+        "f8b655db7a304c00b68ae6fefad4ee14": 1,
+        "dce36b6bc7f0490fac671937a619b36a": 1,
+        "c4c18e003efb4846b80af01b719a08a9": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "HC05",
+          1,
+          "HC05",
+          "BT1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "TTL-BOARD",
+          7,
+          "CONN-XH2.54-3PIN",
+          "CN1,CN2,CN3,CN4,CN5,CN6,CN7",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "DC005-2.0MM",
+          1,
+          "DC-IN-TH_DC005",
+          "DC1",
+          {
+            "Manufacturer Part": "DC005-2.0MM",
+            "Manufacturer": "SOFNG",
+            "Supplier": "LCSC",
+            "Supplier Part": "C111567"
+          }
+        ],
+        [
+          "DC-DC mini560",
+          2,
+          "MINI560",
+          "DC2,DC4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "H1",
+          1,
+          "HDR-F-2.54_1X4",
+          "MPU9250",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C225501"
+          }
+        ],
+        [
+          "MINI360BUCK COPY",
+          1,
+          "MINI360BUCK",
+          "REG9V",
+          {
+            "Manufacturer Part": "Mini360",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "MICROSD SHIELD WEMOS D1 MINI",
+          1,
+          "MICROSD_SHIELD_WEMOS_D1_MINI",
+          "SD1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "Aliexpress",
+            "Supplier Part": "Micro SD V1.2.0"
+          }
+        ],
+        [
+          "OPENRB",
+          1,
+          "OPENRB - QUANTAQ",
+          "U1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ]
+      ],
+      "updateTime": 1735580590,
+      "createTime": 1735577075,
+      "histories": [],
+      "created_at": "2024-12-30 23:44:35",
+      "updated_at": "2024-12-31 00:43:10"
+    },
+    {
+      "uuid": "381c8f6336bacd072bbb471f9223531b",
+      "puuid": "85c8e8cc06aba1544bf5e075f791b4c6",
+      "title": "PCB_Maharani_Singleboard-project-3",
+      "filename": "PCB_Maharani_Singleboard-project-3.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "e777833d61ca43c99ef2c2ca36d6e717": 1,
+        "becaffe5aff54a569d548dfa31daf7dd": 7,
+        "1337670005c6484c999f9b4c272ee9fe": 1,
+        "10cd443cc2f0478ab0c79b23d3315625": 2,
+        "21473b495b6340c992965357d5701779": 1,
+        "f8b655db7a304c00b68ae6fefad4ee14": 1,
+        "dce36b6bc7f0490fac671937a619b36a": 1,
+        "c4c18e003efb4846b80af01b719a08a9": 1,
+        "36b1306a115341f4b4d9407fb34974e0": 5,
+        "5bb3f311460a456db69c8ebd122bf0ba": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "HC05",
+          1,
+          "HC05",
+          "BT1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "TTL-BOARD",
+          7,
+          "CONN-XH2.54-3PIN",
+          "CN1,CN2,CN3,CN4,CN5,CN6,CN7",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "DC005-2.0MM",
+          1,
+          "DC-IN-TH_DC005",
+          "DC1",
+          {
+            "Manufacturer Part": "DC005-2.0MM",
+            "Manufacturer": "SOFNG",
+            "Supplier": "LCSC",
+            "Supplier Part": "C111567"
+          }
+        ],
+        [
+          "DC-DC mini560",
+          2,
+          "MINI560",
+          "DC2,DC4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "H1",
+          1,
+          "HDR-F-2.54_1X4",
+          "MPU9250",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C225501"
+          }
+        ],
+        [
+          "MINI360BUCK COPY",
+          1,
+          "MINI360BUCK",
+          "REG9V",
+          {
+            "Manufacturer Part": "Mini360",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "MICROSD SHIELD WEMOS D1 MINI",
+          1,
+          "MICROSD_SHIELD_WEMOS_D1_MINI",
+          "SD1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "Aliexpress",
+            "Supplier Part": "Micro SD V1.2.0"
+          }
+        ],
+        [
+          "OPENRB",
+          1,
+          "OPENRB - QUANTAQ",
+          "U1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ]
+      ],
+      "updateTime": 1736263424,
+      "createTime": 1735580776,
+      "histories": [],
+      "created_at": "2024-12-31 00:46:16",
+      "updated_at": "2025-01-07 22:23:44"
+    }
+  ],
+  "sort": [],
+  "title": "Maharani_Singleboard-project-1",
+  "foldername": "Maharani_Singleboard-project-1",
+  "schfilename": "Maharani_Singleboard-project-1.json",
+  "schfilemtime": 1735622411430
+}

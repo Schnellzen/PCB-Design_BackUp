@@ -1,0 +1,338 @@
+{
+  "uuid": "a94550324d474a5f1d022e8de40eeda8",
+  "path": "Offline/Power_Logger",
+  "name": "Power_Logger",
+  "content": "",
+  "created_at": "2024-09-20 00:59:39",
+  "updated_at": "2025-01-07 21:17:24",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "233eb310453d73f83d624a1b7acf40cd",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "c05a99d1cd8647508ec60cb223f00dc3": 1,
+        "34cc7cc86fef4eb18cd1574aeb4c027b": 1,
+        "f32543c964044cdaa6b581cfb9c27fc9": 1,
+        "33d6bf87946f423dabe764842de0b6d9": 1,
+        "2fbe415aec814c76a0f811a508c3328b": 1,
+        "7194d9d6c9f74e3ab5322c3720c537aa": 1,
+        "e2f79dd921c747c6b57b4a61a00608c4": 1,
+        "f5b1d9403e49471cab43bc5a1bec336f": 1,
+        "8cb0931e7aee4571ab281a4f2e7b6e80": 2,
+        "d1967012734640e5b2f2cc1ea764740b": 4
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "HSTS016L",
+          1,
+          "HSTS016L",
+          "HL1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "LCD",
+          2,
+          "HDR-M-2.54_1X4",
+          "J5,P5",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C124378"
+          }
+        ],
+        [
+          "20X4 I2C LCD + BL",
+          1,
+          "20X4 I2C LCD",
+          "LCD1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "MOTOR",
+          2,
+          "CONN-TH_2P-P5.00",
+          "P1,P2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1k",
+          1,
+          "R_AXIAL-0.4",
+          "R1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "2k",
+          1,
+          "R_AXIAL-0.4",
+          "R2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "100k",
+          1,
+          "R_AXIAL-0.4",
+          "R3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "5k",
+          1,
+          "R_AXIAL-0.4",
+          "R4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "ESP32-CH340C-Type-C",
+          1,
+          "ESP32-CH340C-TYPE-C",
+          "U1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "INA219_PL",
+          1,
+          "INA219_PL",
+          "U2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "WEMOS MICROSD CARD SHIELD",
+          1,
+          "MICROSD SHIELD WEMOS D1 MINI",
+          "U3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "18650BatteryShieldEinfach",
+          1,
+          "18650BATTERYSHIELDEINFACH",
+          "X1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ]
+      ],
+      "updateTime": 1736259444,
+      "createTime": 1726768779,
+      "histories": [],
+      "created_at": "2024-09-20 00:59:39",
+      "updated_at": "2025-01-07 21:17:24"
+    },
+    {
+      "uuid": "ccde574ae865f059fca5660bc9488d43",
+      "puuid": "a94550324d474a5f1d022e8de40eeda8",
+      "title": "PCB_Power_Logger",
+      "filename": "PCB_Power_Logger.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "5905db98cde4487fbb177070aa85bbe1": 4,
+        "fc700e2bcf504ba88a0ef6e9cb23bb7a": 1,
+        "282f7786cb6144d097ae00194c3e3fb3": 1,
+        "5bb3f311460a456db69c8ebd122bf0ba": 1,
+        "3f9700e50db54447a22567eb65d5bfdf": 1,
+        "427ee48f366d47fd96ce2e0290cb36e5": 1,
+        "1e290c7a90d544e48cc87836e1699785": 1,
+        "a312cc70fe8e461ea224410db6468a2f": 1,
+        "052e852805a2493c999f1189c4086f81": 1,
+        "be1b3456245c4373bfecde52b7e1b1d6": 2
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "MOTOR",
+          1,
+          "HDR-F-2.54_1X2",
+          "H1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C49661"
+          }
+        ],
+        [
+          "HSTS016L",
+          1,
+          "HSTS016L",
+          "HL1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "LCD",
+          1,
+          "HDR-M-2.54_1X4",
+          "J5",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C124378"
+          }
+        ],
+        [
+          "20x4 LCD I2C",
+          1,
+          "20X4 LCD WITH I2C",
+          "LCD1",
+          {
+            "Manufacturer Part": "Header-Female-2.54_1x4",
+            "Manufacturer": "ReliaPro",
+            "Supplier": "LCSC",
+            "Supplier Part": "C124413"
+          }
+        ],
+        [
+          "LCD",
+          1,
+          "CONN-TH_4P-P2.50-XH2.54-4P",
+          "P5",
+          {
+            "Manufacturer Part": "XH-2.54-4P",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900003933"
+          }
+        ],
+        [
+          "ESP32-CH340C-Type-C",
+          1,
+          "ESP32-CH340C-TYPE-C",
+          "U1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "INA219_PL",
+          1,
+          "INA219_PL",
+          "U2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "WEMOS MICROSD CARD SHIELD",
+          1,
+          "MICROSD SHIELD WEMOS D1 MINI",
+          "U3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "18650BatteryShieldEinfach",
+          1,
+          "18650BATTERYSHIELDEINFACH",
+          "X1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ]
+      ],
+      "updateTime": 1727150016,
+      "createTime": 1726775195,
+      "histories": [],
+      "created_at": "2024-09-20 02:46:35",
+      "updated_at": "2024-09-24 10:53:36"
+    }
+  ],
+  "sort": [],
+  "title": "Power_Logger",
+  "foldername": "Power_Logger",
+  "schfilename": "Power_Logger.json",
+  "schfilemtime": 1736259444139
+}

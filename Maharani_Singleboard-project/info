@@ -1,0 +1,92 @@
+{
+  "uuid": "f2f2a9bd2df2fba8b51480075b10460c",
+  "path": "Offline/Maharani_Singleboard-project",
+  "name": "Maharani_Singleboard-project",
+  "content": "",
+  "created_at": "2024-10-27 17:00:15",
+  "updated_at": "2024-11-04 23:43:16",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "3727853bd51b441533acc6541fad44f9",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "0094bf07747f423c95df74a09d112e6e": 1,
+        "11abbab6b68141fb82cf65f602089c13": 1,
+        "bb5c1e9ad58c4cc49f234cb5b4624b04": 1,
+        "bf3f7b64b6044e3c9d770deff855f44c": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "HC-05",
+          1,
+          "HC-05",
+          "BT",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "MPU-9250 Type 1",
+          1,
+          "MPU-9250",
+          "MPU",
+          {
+            "Manufacturer Part": "MPU-9250",
+            "Manufacturer": "",
+            "Supplier": "TaoBao",
+            "Supplier Part": "MPU-92.65"
+          }
+        ],
+        [
+          "micro SD CARD module (Wemos d1)",
+          1,
+          "MICRO SD CARD SHIELD FOR WEMOS D1",
+          "SD1",
+          {
+            "Manufacturer Part": "GREATZT 1pcs Micro SD card mini TF card reader module",
+            "Manufacturer": "",
+            "Supplier": "Aliexpress",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "OpenCM 9.04",
+          1,
+          "OPENCM 9.04",
+          "U1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ]
+      ],
+      "updateTime": 1730738596,
+      "createTime": 1730023216,
+      "histories": [],
+      "created_at": "2024-10-27 17:00:16",
+      "updated_at": "2024-11-04 23:43:16"
+    }
+  ],
+  "sort": [],
+  "title": "Maharani_Singleboard-project",
+  "foldername": "Maharani_Singleboard-project",
+  "schfilename": "Maharani_Singleboard-project.json",
+  "schfilemtime": 1730738596596
+}

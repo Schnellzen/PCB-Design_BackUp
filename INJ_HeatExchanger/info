@@ -1,0 +1,301 @@
+{
+  "uuid": "ed97cc5584dd3985d80473ee68c77a6f",
+  "path": "Offline/INJ_HeatExchanger",
+  "name": "INJ_HeatExchanger",
+  "content": "",
+  "created_at": "2025-04-23 09:20:12",
+  "updated_at": "2025-04-24 08:46:32",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "9f030780498ecc57c5285d03adce8191",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "a1a68e8402b9461199345d2cae776c3f": 2,
+        "64e443eb69944cbbad24485aeec5b568": 2,
+        "5b41b4b7fe7949839d9305df761d200d": 1,
+        "f942f8e244294bb7b1d0d99120824d33": 1,
+        "0b2d026a81b74e19a995b3509dba025a": 1,
+        "779c71170c274f9d8daf8930bc2e85b7": 2,
+        "863b0c0df0104d2d9fd39dea3ed59afc": 1,
+        "ef426d4a8d544b74a9057e9a2a21b39a": 2,
+        "404aa9221ff94de597b8734806e7c74f": 2,
+        "da85efb77378462aaaa3d5ff7db1c1dd": 2
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "1N4007",
+          2,
+          "DO-41_BD2.4-L4.7-P8.70-D0.9-RD",
+          "D1,D2",
+          {
+            "Manufacturer Part": "1N4007",
+            "Manufacturer": "SEMTECH",
+            "Supplier": "LCSC",
+            "Supplier Part": "C106903"
+          }
+        ],
+        [
+          "AC-DC 5V 700mA 3.5W Power Supply",
+          1,
+          "POWER_SUPPLY_30X20",
+          "DC1",
+          {
+            "Manufacturer Part": "AC-DC 5V 700mA 3.5W Power Supply",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "HDR-M-2.54_1x1",
+          2,
+          "HDR-M-2.54_1X1",
+          "J1,J2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C81276"
+          }
+        ],
+        [
+          "CONN-TH_2P-P5.08",
+          2,
+          "CONN-TH_2P-P5.08",
+          "P1,P2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "MAX6675",
+          1,
+          "CONN-TH_XH2.54-5P",
+          "P3",
+          {
+            "Manufacturer Part": "XH-2.54-5P",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900003918"
+          }
+        ],
+        [
+          "IRLZ44NPBF-HXY",
+          2,
+          "TO-220-3_L9.9-W4.5-P2.54-L-1",
+          "Q1,Q2",
+          {
+            "Manufacturer Part": "IRLZ44NPBF-HXY",
+            "Manufacturer": "HXY MOSFET(华轩阳电子)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C22367197"
+          }
+        ],
+        [
+          "10k",
+          2,
+          "R_AXIAL-0.3",
+          "R1,R2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "ADASLABS_RELAY_SONGLE_5V",
+          2,
+          "SONGLE 5V RELAY",
+          "SRD1,SRD2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": "undefined"
+          }
+        ],
+        [
+          "WEMOS_D1_MINI_PRO4",
+          1,
+          "DIP-16_WEMOS_D1_MINI_PRO4",
+          "U1",
+          {
+            "Manufacturer Part": "Wemos_D1_mini_Pro4",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2837266"
+          }
+        ],
+        [
+          "ECO-WEMOS-D1-OLED",
+          1,
+          "ECO-WEMOS-D1-OLED SHIELD",
+          "U2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ]
+      ],
+      "updateTime": 1745431022,
+      "createTime": 1745374813,
+      "histories": [],
+      "created_at": "2025-04-23 09:20:13",
+      "updated_at": "2025-04-24 00:57:02"
+    },
+    {
+      "uuid": "22526cc510ae9a82ec722debf9171c23",
+      "puuid": "ed97cc5584dd3985d80473ee68c77a6f",
+      "title": "PCB_INJ_HeatExchanger",
+      "filename": "PCB_INJ_HeatExchanger.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "e7fdaf84bb104c339d3cb472d0fa9499": 1,
+        "e51909bf23504bf8a04c047f1f5257e0": 2,
+        "2412ff1a5cde4d0a98768e793bc9c04d": 1,
+        "b19f93da4f334d22902c742c042b6e0a": 2,
+        "3eb1249f3ebb4284ae221b0379016582": 2,
+        "562d77a546a24e4f83c78207be689c00": 1,
+        "480e687dc53f46b3afd29b5f18448a90": 2,
+        "19c77e72422b43b59c26b9fa67af5de4": 2,
+        "c2803222ad4b48fb94db0de548a6280a": 2
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "AC-DC 5V 700mA 3.5W Power Supply",
+          1,
+          "POWER_SUPPLY_30X20",
+          "DC1",
+          {
+            "Manufacturer Part": "AC-DC 5V 700mA 3.5W Power Supply",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "HDR-M-2.54_1x3",
+          1,
+          "HDR-M-2.54_1X3",
+          "J1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C180248"
+          }
+        ],
+        [
+          "CONN-TH_2P-P5.08",
+          2,
+          "CONN-TH_2P-P5.08",
+          "P1,P2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "MAX6675",
+          1,
+          "CONN-TH_XH2.54-5P",
+          "P3",
+          {
+            "Manufacturer Part": "XH-2.54-5P",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900003918"
+          }
+        ],
+        [
+          "IRLZ44NPBF-HXY",
+          2,
+          "TO-220-3_L9.9-W4.5-P2.54-L-1",
+          "Q1,Q2",
+          {
+            "Manufacturer Part": "IRLZ44NPBF-HXY",
+            "Manufacturer": "HXY MOSFET(华轩阳电子)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C22367197"
+          }
+        ],
+        [
+          "10k",
+          2,
+          "R_AXIAL-0.3",
+          "R1,R2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "ADASLABS_RELAY_SONGLE_5V",
+          2,
+          "SONGLE 5V RELAY",
+          "SRD1,SRD2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": "undefined"
+          }
+        ],
+        [
+          "WEMOS_D1_MINI_PRO4",
+          1,
+          "DIP-16_WEMOS_D1_MINI_PRO4",
+          "U1",
+          {
+            "Manufacturer Part": "Wemos_D1_mini_Pro4",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2837266"
+          }
+        ]
+      ],
+      "updateTime": 1745459192,
+      "createTime": 1745383502,
+      "histories": [],
+      "created_at": "2025-04-23 11:45:02",
+      "updated_at": "2025-04-24 08:46:32"
+    }
+  ],
+  "sort": [],
+  "title": "INJ_HeatExchanger",
+  "foldername": "INJ_HeatExchanger",
+  "schfilename": "INJ_HeatExchanger.json",
+  "schfilemtime": 1745431022331
+}

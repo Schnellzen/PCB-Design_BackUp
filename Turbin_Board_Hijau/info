@@ -1,0 +1,376 @@
+{
+  "uuid": "75d95d6a52e27ec9ab72228b0b630cad",
+  "path": "Offline/Turbin_Board_Hijau",
+  "name": "Turbin_Board_Hijau",
+  "content": "",
+  "created_at": "2024-07-23 13:28:39",
+  "updated_at": "2024-07-25 13:47:20",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "34fb643ec133185a071eda699565b3c1",
+      "title": "Board_Hijau",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "e553e2e537394b6c909b9fd1a01bc130": 1,
+        "7d21ed4a1dd1400685f7452902542bda": 1,
+        "8ba8c980c829426995bac477a7cab6cb": 1,
+        "eb2104925ca941d28897ecf24d35f615": 1,
+        "da85efb77378462aaaa3d5ff7db1c1dd": 2,
+        "f28e713e84eb47a2a5ff53799d560273": 1,
+        "a0075bfb3e144a938515890c7aadeadf": 1,
+        "3ec77201bbcd4ecd8722658d581a4e60": 7,
+        "a9aa2b14f188405792fa87ac344499a4": 1,
+        "8850ffcdb9d242a1b431d4a3e2209db1": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "KY-010",
+          1,
+          "GP1F32R",
+          "ANEMOMETER2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "CHINA (Aliexpress)",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "BATTERY 18650",
+          1,
+          "ADAFRUIT 18650 BATTERY HOLDER KFLMIAMI420 BH-18650-PC-ND",
+          "BAT3",
+          {
+            "Manufacturer Part": "battery",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1N4007",
+          2,
+          "DO-41_BD2.4-L4.7-P8.70-D0.9-RD",
+          "D5,D6",
+          {
+            "Manufacturer Part": "1N4007",
+            "Manufacturer": "SEMTECH",
+            "Supplier": "LCSC",
+            "Supplier Part": "C106903"
+          }
+        ],
+        [
+          "5V_1 18650 Shield",
+          1,
+          "HDR-F-2.54_1X2",
+          "H1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C49661"
+          }
+        ],
+        [
+          "5V_2 18650 Shield",
+          1,
+          "HDR-F-2.54_1X2",
+          "H2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C49661"
+          }
+        ],
+        [
+          "5V_3 18650 Shield",
+          1,
+          "HDR-F-2.54_1X2",
+          "H3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C49661"
+          }
+        ],
+        [
+          "3.3V_1 18650 Shield",
+          1,
+          "HDR-F-2.54_1X2",
+          "H4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C49661"
+          }
+        ],
+        [
+          "3.3V_2 18650 Shield",
+          1,
+          "HDR-F-2.54_1X2",
+          "H5",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C49661"
+          }
+        ],
+        [
+          "3.3V_3 18650 Shield",
+          1,
+          "HDR-F-2.54_1X2",
+          "H6",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C49661"
+          }
+        ],
+        [
+          "Motor",
+          1,
+          "HDR-F-2.54_1X2",
+          "H7",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C49661"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x2",
+          1,
+          "HDR-M-2.54_1X2",
+          "J1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C124375"
+          }
+        ],
+        [
+          "LED-TH-5mm_R",
+          1,
+          "LED-TH_BD5.0_RED",
+          "LED1",
+          {
+            "Manufacturer Part": "333-2SURD/S530-A3",
+            "Manufacturer": "EVERLIGHT(台湾亿光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C87271"
+          }
+        ],
+        [
+          "12V 3A DC Motor",
+          1,
+          "12V 3A  DC MOTOR",
+          "M3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "WEMOS-D1-MINI",
+          1,
+          "WEMOS-D1-MINI",
+          "U11",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "INA219",
+          1,
+          "INA219",
+          "U14",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "18650 Battery Shield V3",
+          1,
+          "18650_BATTERY_SHIELD_V3",
+          "U15",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": "18650 Battery Shield V3"
+          }
+        ]
+      ],
+      "updateTime": 1721790251,
+      "createTime": 1721716137,
+      "histories": [],
+      "created_at": "2024-07-23 13:28:57",
+      "updated_at": "2024-07-24 10:04:11"
+    },
+    {
+      "uuid": "d422c23555ad1c6b5ed5f3a73a07f26d",
+      "puuid": "75d95d6a52e27ec9ab72228b0b630cad",
+      "title": "PCB_Turbin_Board_Hijau",
+      "filename": "PCB_Turbin_Board_Hijau.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "a1dd0f57ff77495180db366e94d99030": 1,
+        "36b1306a115341f4b4d9407fb34974e0": 7,
+        "7bf5a8b3443e4a3f8d50cfe0afa0db90": 1,
+        "079e462bd9c940339dfbbd80a623632a": 1,
+        "c2803222ad4b48fb94db0de548a6280a": 2,
+        "c7ac6a490c4042279bac1af1934bc82b": 1,
+        "aef29e8c24a64ab48e311a86fade97aa": 1,
+        "70aa5812f21f4991bf427395d51849f4": 1,
+        "ce0ed154d45b41508e0debca8473ba07": 1,
+        "b6402e9ae5a64d5db7518994bed82b08": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "KY-010",
+          1,
+          "GP1F32R",
+          "ANEMOMETER2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "CHINA (Aliexpress)",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1N4007",
+          2,
+          "DO-41_BD2.4-L4.7-P8.70-D0.9-RD",
+          "D5,D6",
+          {
+            "Manufacturer Part": "1N4007",
+            "Manufacturer": "SEMTECH",
+            "Supplier": "LCSC",
+            "Supplier Part": "C106903"
+          }
+        ],
+        [
+          "5V_1 18650 Shield",
+          1,
+          "HDR-F-2.54_1X2",
+          "H1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C49661"
+          }
+        ],
+        [
+          "Motor",
+          1,
+          "HDR-F-2.54_1X2",
+          "H7",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C49661"
+          }
+        ],
+        [
+          "LED-0603_R",
+          1,
+          "LED0603_RED",
+          "LED3",
+          {
+            "Manufacturer Part": "19-217/R6C-AL1M2VY/3T",
+            "Manufacturer": "EVERLIGHT(台湾亿光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C72044"
+          }
+        ],
+        [
+          "WEMOS-D1-MINI",
+          1,
+          "WEMOS-D1-MINI",
+          "U11",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "INA219",
+          1,
+          "INA219",
+          "U14",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "18650 Battery Shield V3",
+          1,
+          "18650_BATTERY_SHIELD_V3",
+          "U15",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": "18650 Battery Shield V3"
+          }
+        ]
+      ],
+      "updateTime": 1721890040,
+      "createTime": 1721753626,
+      "histories": [],
+      "created_at": "2024-07-23 23:53:46",
+      "updated_at": "2024-07-25 13:47:20"
+    }
+  ],
+  "sort": [
+    "34fb643ec133185a071eda699565b3c1"
+  ],
+  "title": "Turbin_Board_Hijau",
+  "foldername": "Turbin_Board_Hijau",
+  "schfilename": "Turbin_Board_Hijau.json",
+  "schfilemtime": 1721790251569
+}

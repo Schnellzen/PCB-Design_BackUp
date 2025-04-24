@@ -1,0 +1,171 @@
+{
+  "uuid": "a2464aafe16dde0559eaa68b3add261a",
+  "path": "Offline/uro_krsti_teensy_openrb",
+  "name": "uro_krsti_teensy_openrb",
+  "content": "",
+  "created_at": "2024-07-23 11:39:45",
+  "updated_at": "2024-07-24 13:42:54",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "9d5cbaaabe20a4a3bc2d37e8a2af9308",
+      "title": "buka pake ee.SchDoc",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {},
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "Header 15",
+          2,
+          "HDR1X15",
+          "ATAS,BAWAH",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "NO",
+          1,
+          "HDR1X6H",
+          "HC1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "POER",
+          2,
+          "HDR1X2",
+          "INPUTUBEC1V,OUTPUTUBEC1V",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "Component_1",
+          1,
+          "PCBCOMPONENT_1",
+          "LED",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "Header 6",
+          2,
+          "HDR1X6",
+          "LLCHIGH,LLCLOW",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "Header 8",
+          1,
+          "HDR1X8",
+          "MPU1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "MX",
+          2,
+          "MOLEX MX",
+          "MX-1,MX-2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "PWR2.5",
+          1,
+          "KLD-0202",
+          "PLUGPOWER",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "Header 3",
+          1,
+          "HDR1X3",
+          "SERVO1GRAM",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "teensy",
+          1,
+          "TEENSY",
+          "TEENSY",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "Molex XL-320",
+          2,
+          "MOLEX XL-320",
+          "XL-1,XL-2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ]
+      ],
+      "updateTime": 1721803374,
+      "createTime": 1721803374,
+      "histories": [],
+      "created_at": "2024-07-24 13:42:54",
+      "updated_at": "2024-07-24 13:42:54"
+    }
+  ],
+  "sort": [],
+  "title": "uro_krsti_teensy_openrb",
+  "foldername": "uro_krsti_teensy_openrb",
+  "schfilename": "uro_krsti_teensy_openrb.json",
+  "schfilemtime": 1721803374528
+}

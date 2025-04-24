@@ -1,0 +1,465 @@
+{
+  "uuid": "45112be67207c6f6fff437f921993013",
+  "path": "Offline/TEST",
+  "name": "TEST",
+  "content": "",
+  "created_at": "2024-07-25 11:41:34",
+  "updated_at": "2025-04-23 11:30:13",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "c32884389a2a9542f211d2992faed1fa",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "863b0c0df0104d2d9fd39dea3ed59afc": 1,
+        "1bd2546ace3f4fbdaff68eeea1b08749": 1,
+        "404aa9221ff94de597b8734806e7c74f": 2,
+        "0d0a13f4d5e4481aa82dc0293d1aa27e": 1,
+        "8cb0931e7aee4571ab281a4f2e7b6e80": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "HDR-M-2.54_1x1",
+          2,
+          "HDR-M-2.54_1X1",
+          "J1,J3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C81276"
+          }
+        ],
+        [
+          "HDR-M-2.54_2x2",
+          1,
+          "HDR-M-2.54_2X2",
+          "J2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C66690"
+          }
+        ],
+        [
+          "CONN-TH_2P-P5.00",
+          1,
+          "CONN-TH_2P-P5.00",
+          "P1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "AC-DC 5V 700mA 3.5W Power Supply",
+          2,
+          "POWER_SUPPLY_30X20",
+          "U4,U6",
+          {
+            "Manufacturer Part": "AC-DC 5V 700mA 3.5W Power Supply",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ]
+      ],
+      "updateTime": 1745382613,
+      "createTime": 1721882495,
+      "histories": [],
+      "created_at": "2024-07-25 11:41:35",
+      "updated_at": "2025-04-23 11:30:13"
+    },
+    {
+      "uuid": "8d3e6e5e2b2f5357f17f2c3dec47c41f",
+      "puuid": "45112be67207c6f6fff437f921993013",
+      "title": "PCB_TEST",
+      "filename": "PCB_TEST.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "5b01b4075a13486baf558c6b807ad3dd": 1,
+        "362ee7f83b9c4e939b2f099194634cc4": 2,
+        "70a82ede4346423daaecc51acf96c606": 1,
+        "5bb3f311460a456db69c8ebd122bf0ba": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "CONN-XH2.54-4PIN",
+          1,
+          "CONN-XH2.54-4PIN",
+          "CN1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "CONN-XH2.54-4PIN",
+          1,
+          "CONN-XH2.54-4PIN",
+          "CN2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "MIXER",
+          1,
+          "CONN-XH2.54-4PIN",
+          "CN3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "CONN-XH2.54-4PIN",
+          1,
+          "CONN-XH2.54-4PIN",
+          "CN4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "XH-4A-2.54",
+          1,
+          "CONN-TH_4P-P2.50-XH2.54-4P",
+          "ENCODER_R1",
+          {
+            "Manufacturer Part": "XH-4A-2.54",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900009905"
+          }
+        ]
+      ],
+      "updateTime": 1736995877,
+      "createTime": 1736995877,
+      "histories": [],
+      "created_at": "2025-01-16 09:51:17",
+      "updated_at": "2025-01-16 09:51:17"
+    },
+    {
+      "uuid": "3a65602e01a0d0ed0ee22558d637438a",
+      "puuid": "45112be67207c6f6fff437f921993013",
+      "title": "PCB_TEST_2",
+      "filename": "PCB_TEST_2.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "7a1ed57090ab407c88eccebafb367d46": 1,
+        "478113fb6b184bb8b6e4100b4d38ddbc": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "XH2.54-2PIN",
+          1,
+          "CONN-XH2.54-2PIN",
+          "CN1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "XH2.54-2P",
+          1,
+          "XH2.54-2P-V",
+          "CON1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ]
+      ],
+      "updateTime": 1738925043,
+      "createTime": 1738925043,
+      "histories": [],
+      "created_at": "2025-02-07 17:44:03",
+      "updated_at": "2025-02-07 17:44:03"
+    },
+    {
+      "uuid": "0cd9fbb7a19041575d74ad4451e95bfb",
+      "puuid": "45112be67207c6f6fff437f921993013",
+      "title": "PCB_TEST_5",
+      "filename": "PCB_TEST_5.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "583bc6bf95254baf903934b0c674d2e7": 3,
+        "3c282534c9e949558bedacd910598c74": 1,
+        "2a4f51df04f74531beb5e2251c7c23b1": 1,
+        "2b8558765ed8490ca45fb9abed2160de": 1,
+        "0b96e97f7d384278b8530b01b9a3ddaf": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "A6TN-1101",
+          1,
+          "DIP SWITCH DIP1",
+          "SW1",
+          {
+            "Manufacturer Part": "A6TN-1101",
+            "Manufacturer": "Omron Electronics Inc-EMC Div",
+            "Supplier": "Digi-Key",
+            "Supplier Part": "Z12167-ND"
+          }
+        ],
+        [
+          "DIP1 COPY",
+          1,
+          "DIP SWITCH DIP1",
+          "SW2",
+          {
+            "Manufacturer Part": "A6TN-1101",
+            "Manufacturer": "Omron Electronics Inc-EMC Div",
+            "Supplier": "Digi-Key",
+            "Supplier Part": "Z12167-ND"
+          }
+        ],
+        [
+          "DIP1",
+          1,
+          "DIP SWITCH DIP1",
+          "SW6",
+          {
+            "Manufacturer Part": "A6TN-1101",
+            "Manufacturer": "Omron Electronics Inc-EMC Div",
+            "Supplier": "Digi-Key",
+            "Supplier Part": "Z12167-ND"
+          }
+        ],
+        [
+          "DIP1SWITCH",
+          1,
+          "DIP SWITCH DIP1",
+          "SW3",
+          {
+            "Manufacturer Part": "A6TN-1101",
+            "Manufacturer": "Omron Electronics Inc-EMC Div",
+            "Supplier": "Digi-Key",
+            "Supplier Part": "Z12167-ND"
+          }
+        ],
+        [
+          "DIP1",
+          1,
+          "DIP SWITCH DIP1",
+          "SW8",
+          {
+            "Manufacturer Part": "A6TN-1101",
+            "Manufacturer": "Omron Electronics Inc-EMC Div",
+            "Supplier": "Digi-Key",
+            "Supplier Part": "Z12167-ND"
+          }
+        ],
+        [
+          "DIP1",
+          1,
+          "DIP SWITCH DIP1",
+          "SW9",
+          {
+            "Manufacturer Part": "A6TN-1101",
+            "Manufacturer": "Omron Electronics Inc-EMC Div",
+            "Supplier": "Digi-Key",
+            "Supplier Part": "Z12167-ND"
+          }
+        ],
+        [
+          "DIP1",
+          1,
+          "DIP SWITCH DIP1",
+          "T",
+          {
+            "Manufacturer Part": "A6TN-1101",
+            "Manufacturer": "Omron Electronics Inc-EMC Div",
+            "Supplier": "Digi-Key",
+            "Supplier Part": "Z12167-ND"
+          }
+        ]
+      ],
+      "updateTime": 1738927631,
+      "createTime": 1738927631,
+      "histories": [],
+      "created_at": "2025-02-07 18:27:11",
+      "updated_at": "2025-02-07 18:27:11"
+    },
+    {
+      "uuid": "7307962bb591f8551783695467f84b14",
+      "puuid": "45112be67207c6f6fff437f921993013",
+      "title": "PCB_TEST_6",
+      "filename": "PCB_TEST_6.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "583bc6bf95254baf903934b0c674d2e7": 3,
+        "3c282534c9e949558bedacd910598c74": 1,
+        "2a4f51df04f74531beb5e2251c7c23b1": 1,
+        "2b8558765ed8490ca45fb9abed2160de": 1,
+        "0b96e97f7d384278b8530b01b9a3ddaf": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "A6TN-1101",
+          1,
+          "DIP SWITCH DIP1",
+          "SW1",
+          {
+            "Manufacturer Part": "A6TN-1101",
+            "Manufacturer": "Omron Electronics Inc-EMC Div",
+            "Supplier": "Digi-Key",
+            "Supplier Part": "Z12167-ND"
+          }
+        ],
+        [
+          "DIP1 COPY",
+          1,
+          "DIP SWITCH DIP1",
+          "SW2",
+          {
+            "Manufacturer Part": "A6TN-1101",
+            "Manufacturer": "Omron Electronics Inc-EMC Div",
+            "Supplier": "Digi-Key",
+            "Supplier Part": "Z12167-ND"
+          }
+        ],
+        [
+          "DIP1",
+          1,
+          "DIP SWITCH DIP1",
+          "SW6",
+          {
+            "Manufacturer Part": "A6TN-1101",
+            "Manufacturer": "Omron Electronics Inc-EMC Div",
+            "Supplier": "Digi-Key",
+            "Supplier Part": "Z12167-ND"
+          }
+        ],
+        [
+          "DIP1SWITCH",
+          1,
+          "DIP SWITCH DIP1",
+          "SW3",
+          {
+            "Manufacturer Part": "A6TN-1101",
+            "Manufacturer": "Omron Electronics Inc-EMC Div",
+            "Supplier": "Digi-Key",
+            "Supplier Part": "Z12167-ND"
+          }
+        ],
+        [
+          "DIP1",
+          1,
+          "DIP SWITCH DIP1",
+          "SW8",
+          {
+            "Manufacturer Part": "A6TN-1101",
+            "Manufacturer": "Omron Electronics Inc-EMC Div",
+            "Supplier": "Digi-Key",
+            "Supplier Part": "Z12167-ND"
+          }
+        ],
+        [
+          "DIP1",
+          1,
+          "DIP SWITCH DIP1",
+          "SW9",
+          {
+            "Manufacturer Part": "A6TN-1101",
+            "Manufacturer": "Omron Electronics Inc-EMC Div",
+            "Supplier": "Digi-Key",
+            "Supplier Part": "Z12167-ND"
+          }
+        ],
+        [
+          "DIP1",
+          1,
+          "DIP SWITCH DIP1",
+          "T",
+          {
+            "Manufacturer Part": "A6TN-1101",
+            "Manufacturer": "Omron Electronics Inc-EMC Div",
+            "Supplier": "Digi-Key",
+            "Supplier Part": "Z12167-ND"
+          }
+        ]
+      ],
+      "updateTime": 1738927693,
+      "createTime": 1738927693,
+      "histories": [],
+      "created_at": "2025-02-07 18:28:13",
+      "updated_at": "2025-02-07 18:28:13"
+    }
+  ],
+  "sort": [],
+  "title": "TEST",
+  "foldername": "TEST",
+  "schfilename": "TEST.json",
+  "schfilemtime": 1745382613998
+}

@@ -1,0 +1,326 @@
+{
+  "uuid": "ae247c5a6a146c80801fccc686683750",
+  "path": "Offline/Etilen_Generator_Board-0",
+  "name": "Etilen_Generator_Board-0",
+  "content": "",
+  "created_at": "2024-07-26 09:33:36",
+  "updated_at": "2024-08-01 08:39:13",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "3ffeab040997a0ea0a77b2bd3464da16",
+      "title": "Board Schematic for Etilen Generator",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "c05a99d1cd8647508ec60cb223f00dc3": 1,
+        "5ef80c1857224723bda025633de67f87": 1,
+        "5d375c3950204035bd5523b516352ffe": 1,
+        "b860db556ed741eda1c6aae3cbc6c9f4": 1,
+        "daa3cf3493c84fa3b0b6a6d427d23f0b": 1,
+        "3c6399489d134a43b9f857fd2807a995": 2,
+        "1c5b39ac72514ccd8747bf87ab52b20b": 2,
+        "1003bf607f5d450fa51ae0cfbacb5b3d": 2,
+        "835f1a4a93254448b8a8aaeb3d816ac3": 1,
+        "d7ac45738c884d24b5c9c0a7f557790b": 2,
+        "18479f1c4d4749c5a4c4387846c5d657": 3,
+        "5fc2501b92bf4b11b9660b2909c0e885": 2,
+        "a9aa2b14f188405792fa87ac344499a4": 2,
+        "f5b1d9403e49471cab43bc5a1bec336f": 4,
+        "a052559478a14ee2b9e3514bee4ff72d": 1,
+        "d1967012734640e5b2f2cc1ea764740b": 2,
+        "20863e0754214e8397406e82bf29610f": 2,
+        "0b2d026a81b74e19a995b3509dba025a": 1,
+        "f3c1d943bf1c43ffae55ac8c780d44ed": 2,
+        "7194d9d6c9f74e3ab5322c3720c537aa": 4
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "S-03-12-1",
+          1,
+          "AC-TH_S-03-12-1",
+          "AC3",
+          {
+            "Manufacturer Part": "S-03-12-1",
+            "Manufacturer": "HONGJU(宏聚)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C268211"
+          }
+        ],
+        [
+          "DC005-2.0MM",
+          1,
+          "DC-IN-TH_DC005",
+          "DC1",
+          {
+            "Manufacturer Part": "DC005-2.0MM",
+            "Manufacturer": "SOFNG",
+            "Supplier": "LCSC",
+            "Supplier Part": "C111567"
+          }
+        ],
+        [
+          "REAKTOR",
+          3,
+          "HEATER",
+          "HTR1,J1,P1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "BOILER",
+          3,
+          "HEATER",
+          "HTR2,J2,P2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "MAX6675",
+          2,
+          "HDR-M-2.54_1X5",
+          "J3,P3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C358687"
+          }
+        ],
+        [
+          "TCH",
+          2,
+          "HDR-M-2.54_1X4",
+          "J4,P4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C124378"
+          }
+        ],
+        [
+          "LCD",
+          2,
+          "HDR-M-2.54_1X4",
+          "J5,P5",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C124378"
+          }
+        ],
+        [
+          "NTC",
+          2,
+          "HDR-M-2.54_1X4",
+          "J6,P6",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C124378"
+          }
+        ],
+        [
+          "POT",
+          2,
+          "HDR-M-2.54_1X4",
+          "J7,P7",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C124378"
+          }
+        ],
+        [
+          "K4-6×6_TH",
+          3,
+          "KEY-TH_4P-L6.0-W6.0-P4.50-LS6.5",
+          "KEY1,KEY2,KEY3",
+          {
+            "Manufacturer Part": "K2-1102DP-E4SW-04",
+            "Manufacturer": "韩国韩荣",
+            "Supplier": "LCSC",
+            "Supplier Part": "C136684"
+          }
+        ],
+        [
+          "20x4 LCD I2C",
+          1,
+          "20X4 LCD WITH I2C",
+          "LCD1",
+          {
+            "Manufacturer Part": "Header-Female-2.54_1x4",
+            "Manufacturer": "ReliaPro",
+            "Supplier": "LCSC",
+            "Supplier Part": "C124413"
+          }
+        ],
+        [
+          "10k",
+          2,
+          "R_AXIAL-0.4",
+          "R1,R2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "R_3296W_US",
+          2,
+          "RES-ADJ-TH_3296W",
+          "RP1,RP2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "SK-12D02-VG5",
+          2,
+          "SW-TH_SK-12D02VG3",
+          "SW1,SW2",
+          {
+            "Manufacturer Part": "SK-12D02-VG5",
+            "Manufacturer": "Rectangular Connectors - Contacts",
+            "Supplier": "LCSC",
+            "Supplier Part": "C136722"
+          }
+        ],
+        [
+          "K Type Thermocouple",
+          1,
+          "THERMOCOUPLE V1",
+          "T1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": "1568-1306-ND"
+          }
+        ],
+        [
+          "NTC_STEAM",
+          1,
+          "RES-TH_L22.0-W7.0-P7.50-D1.0-S1.00",
+          "TR1",
+          {
+            "Manufacturer Part": "NTCThermistor",
+            "Manufacturer": "RUILON",
+            "Supplier": "LCSC",
+            "Supplier Part": "C42975"
+          }
+        ],
+        [
+          "NTC_BOIL",
+          1,
+          "RES-TH_L22.0-W7.0-P7.50-D1.0-S1.00",
+          "TR2",
+          {
+            "Manufacturer Part": "NTCThermistor",
+            "Manufacturer": "RUILON",
+            "Supplier": "LCSC",
+            "Supplier Part": "C42975"
+          }
+        ],
+        [
+          "ESP32-CH340C-Type-C",
+          1,
+          "ESP32-CH340C-TYPE-C",
+          "U1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "SSR-BOILER",
+          1,
+          "SSR-40 DA",
+          "U2",
+          {
+            "Manufacturer Part": "SSR-40 DA",
+            "Manufacturer": "FOTEK",
+            "Supplier": "",
+            "Supplier Part": "SSR-40 DA"
+          }
+        ],
+        [
+          "SSR-Reaktor",
+          1,
+          "SSR-40 DA",
+          "U3",
+          {
+            "Manufacturer Part": "SSR-40 DA",
+            "Manufacturer": "FOTEK",
+            "Supplier": "",
+            "Supplier Part": "SSR-40 DA"
+          }
+        ],
+        [
+          "MAX6675_Module",
+          1,
+          "MAX6675_MODULE_BYGOZZI",
+          "U4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "PC817B",
+          2,
+          "DIP-4_L4.6-W6.5-P2.54-LS7.6-BL",
+          "U5,U6",
+          {
+            "Manufacturer Part": "PC817B",
+            "Manufacturer": "华润华晶",
+            "Supplier": "LCSC",
+            "Supplier Part": "C115499"
+          }
+        ]
+      ],
+      "updateTime": 1721977737,
+      "createTime": 1721961275,
+      "histories": [],
+      "created_at": "2024-07-26 09:34:35",
+      "updated_at": "2024-07-26 14:08:57"
+    }
+  ],
+  "sort": [
+    "3ffeab040997a0ea0a77b2bd3464da16"
+  ],
+  "title": "Etilen_Generator_Board-0",
+  "foldername": "Etilen_Generator_Board-0",
+  "schfilename": "Etilen_Generator_Board-0.json",
+  "schfilemtime": 1721977737186
+}

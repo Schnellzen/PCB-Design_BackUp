@@ -1,0 +1,147 @@
+{
+  "uuid": "b99ff46e59555895c5a3627d44a773bb",
+  "path": "Offline/Maharani_Button",
+  "name": "Maharani_Button",
+  "content": "",
+  "created_at": "2025-01-16 09:28:19",
+  "updated_at": "2025-01-16 10:10:24",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "e6676517371188f023aa350c4faf2f0f",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "910847bae0d14af7a6f5e6e9b6e1e16d": 1,
+        "7194d9d6c9f74e3ab5322c3720c537aa": 1,
+        "18479f1c4d4749c5a4c4387846c5d657": 2
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "K4-6×6_TH",
+          2,
+          "KEY-TH_4P-L6.0-W6.0-P4.50-LS6.5",
+          "KEY1,KEY2",
+          {
+            "Manufacturer Part": "K2-1102DP-E4SW-04",
+            "Manufacturer": "韩国韩荣",
+            "Supplier": "LCSC",
+            "Supplier Part": "C136684"
+          }
+        ],
+        [
+          "Main-Board",
+          1,
+          "CONN-TH_4P-P2.50-XH2.54-4P",
+          "P1",
+          {
+            "Manufacturer Part": "XH-2.54-4P",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900003933"
+          }
+        ],
+        [
+          "DIP1SWITCH",
+          1,
+          "DIP SWITCH DIP1",
+          "SW2",
+          {
+            "Manufacturer Part": "A6TN-1101",
+            "Manufacturer": "Omron Electronics Inc-EMC Div",
+            "Supplier": "Digi-Key",
+            "Supplier Part": "Z12167-ND"
+          }
+        ]
+      ],
+      "updateTime": 1736996932,
+      "createTime": 1736995455,
+      "histories": [],
+      "created_at": "2025-01-16 09:44:15",
+      "updated_at": "2025-01-16 10:08:52"
+    },
+    {
+      "uuid": "32a38678dae9132a56be2296c78847e7",
+      "puuid": "b99ff46e59555895c5a3627d44a773bb",
+      "title": "PCB_Maharani_Button",
+      "filename": "PCB_Maharani_Button.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "557c105168d444a992e25584f55bcbb2": 2,
+        "3c282534c9e949558bedacd910598c74": 1,
+        "5bb3f311460a456db69c8ebd122bf0ba": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "K4-6×6_TH",
+          2,
+          "KEY-TH_4P-L6.0-W6.0-P4.50-LS6.5",
+          "KEY1,KEY2",
+          {
+            "Manufacturer Part": "K2-1102DP-E4SW-04",
+            "Manufacturer": "韩国韩荣",
+            "Supplier": "LCSC",
+            "Supplier Part": "C136684"
+          }
+        ],
+        [
+          "Stepper",
+          1,
+          "CONN-TH_4P-P2.50-XH2.54-4P",
+          "P1",
+          {
+            "Manufacturer Part": "XH-2.54-4P",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900003933"
+          }
+        ],
+        [
+          "DIP1SWITCH",
+          1,
+          "DIP SWITCH DIP1",
+          "SW2",
+          {
+            "Manufacturer Part": "A6TN-1101",
+            "Manufacturer": "Omron Electronics Inc-EMC Div",
+            "Supplier": "Digi-Key",
+            "Supplier Part": "Z12167-ND"
+          }
+        ]
+      ],
+      "updateTime": 1736997024,
+      "createTime": 1736996278,
+      "histories": [],
+      "created_at": "2025-01-16 09:57:58",
+      "updated_at": "2025-01-16 10:10:24"
+    }
+  ],
+  "sort": [
+    "ead06f89ff3356491785265143e03914",
+    "e6676517371188f023aa350c4faf2f0f"
+  ],
+  "title": "Maharani_Button",
+  "foldername": "Maharani_Button",
+  "schfilename": "Maharani_Button.json",
+  "schfilemtime": 1736996932116
+}

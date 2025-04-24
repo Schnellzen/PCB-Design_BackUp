@@ -1,0 +1,457 @@
+{
+  "uuid": "8c6daa95ab8fb56f46b46d5bf9603d9b",
+  "path": "Offline/Turbin",
+  "name": "Turbin",
+  "content": "dalpro",
+  "created_at": "2024-07-22 07:51:28",
+  "updated_at": "2024-07-23 13:27:43",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "d2dc63c82b11ee7aacb9361a8a51ac73",
+      "title": "Default_Set",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "e553e2e537394b6c909b9fd1a01bc130": 1,
+        "5b41b4b7fe7949839d9305df761d200d": 1,
+        "f32543c964044cdaa6b581cfb9c27fc9": 1,
+        "7d21ed4a1dd1400685f7452902542bda": 1,
+        "8ba8c980c829426995bac477a7cab6cb": 1,
+        "eb2104925ca941d28897ecf24d35f615": 1,
+        "da85efb77378462aaaa3d5ff7db1c1dd": 2,
+        "5cbe824183374fac8e4c1ae848199ce3": 1,
+        "f28e713e84eb47a2a5ff53799d560273": 1,
+        "a0075bfb3e144a938515890c7aadeadf": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "KY-010",
+          1,
+          "GP1F32R",
+          "ANEMOMETER",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "CHINA (Aliexpress)",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "BATTERY 18650",
+          1,
+          "ADAFRUIT 18650 BATTERY HOLDER KFLMIAMI420 BH-18650-PC-ND",
+          "BAT1",
+          {
+            "Manufacturer Part": "battery",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1N4007",
+          2,
+          "DO-41_BD2.4-L4.7-P8.70-D0.9-RD",
+          "D1,D2",
+          {
+            "Manufacturer Part": "1N4007",
+            "Manufacturer": "SEMTECH",
+            "Supplier": "LCSC",
+            "Supplier Part": "C106903"
+          }
+        ],
+        [
+          "LED-0603_R",
+          1,
+          "LED0603_RED",
+          "LED1",
+          {
+            "Manufacturer Part": "19-217/R6C-AL1M2VY/3T",
+            "Manufacturer": "EVERLIGHT(台湾亿光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C72044"
+          }
+        ],
+        [
+          "12V 3A DC Motor",
+          1,
+          "12V 3A  DC MOTOR",
+          "M1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "WEMOS MICROSD CARD SHIELD",
+          1,
+          "MICROSD SHIELD WEMOS D1 MINI",
+          "U1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "ECO-WEMOS-D1-OLED",
+          1,
+          "ECO-WEMOS-D1-OLED SHIELD",
+          "U2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "18650 Battery Shield V3",
+          1,
+          "18650_BATTERY_SHIELD_V3",
+          "U3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": "18650 Battery Shield V3"
+          }
+        ],
+        [
+          "WEMOS-D1-MINI",
+          1,
+          "WEMOS-D1-MINI",
+          "U4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "INA219",
+          1,
+          "INA219",
+          "U5",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ]
+      ],
+      "updateTime": 1721637200,
+      "createTime": 1721609489,
+      "histories": [],
+      "created_at": "2024-07-22 07:51:29",
+      "updated_at": "2024-07-22 15:33:20"
+    },
+    {
+      "uuid": "de6b0fe0bd096ed0550c167052cdec41",
+      "title": "Board_Hijau",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "e553e2e537394b6c909b9fd1a01bc130": 1,
+        "7d21ed4a1dd1400685f7452902542bda": 1,
+        "8ba8c980c829426995bac477a7cab6cb": 1,
+        "eb2104925ca941d28897ecf24d35f615": 1,
+        "da85efb77378462aaaa3d5ff7db1c1dd": 2,
+        "5cbe824183374fac8e4c1ae848199ce3": 1,
+        "f28e713e84eb47a2a5ff53799d560273": 1,
+        "a0075bfb3e144a938515890c7aadeadf": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "KY-010",
+          3,
+          "GP1F32R",
+          "ANEMOMETER,ANEMOMETER1,ANEMOMETER2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "CHINA (Aliexpress)",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "BATTERY 18650",
+          3,
+          "ADAFRUIT 18650 BATTERY HOLDER KFLMIAMI420 BH-18650-PC-ND",
+          "BAT1,BAT2,BAT3",
+          {
+            "Manufacturer Part": "battery",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1N4007",
+          6,
+          "DO-41_BD2.4-L4.7-P8.70-D0.9-RD",
+          "D1,D2,D3,D4,D5,D6",
+          {
+            "Manufacturer Part": "1N4007",
+            "Manufacturer": "SEMTECH",
+            "Supplier": "LCSC",
+            "Supplier Part": "C106903"
+          }
+        ],
+        [
+          "LED-0603_R",
+          3,
+          "LED0603_RED",
+          "LED1,LED2,LED3",
+          {
+            "Manufacturer Part": "19-217/R6C-AL1M2VY/3T",
+            "Manufacturer": "EVERLIGHT(台湾亿光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C72044"
+          }
+        ],
+        [
+          "12V 3A DC Motor",
+          3,
+          "12V 3A  DC MOTOR",
+          "M1,M2,M3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "WEMOS MICROSD CARD SHIELD",
+          2,
+          "MICROSD SHIELD WEMOS D1 MINI",
+          "U1,U8",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "ECO-WEMOS-D1-OLED",
+          2,
+          "ECO-WEMOS-D1-OLED SHIELD",
+          "U2,U9",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "18650 Battery Shield V3",
+          3,
+          "18650_BATTERY_SHIELD_V3",
+          "U3,U6,U15",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": "18650 Battery Shield V3"
+          }
+        ],
+        [
+          "WEMOS-D1-MINI",
+          3,
+          "WEMOS-D1-MINI",
+          "U4,U10,U11",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "INA219",
+          3,
+          "INA219",
+          "U5,U7,U14",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ]
+      ],
+      "updateTime": 1721710453,
+      "createTime": 1721710453,
+      "histories": [],
+      "created_at": "2024-07-23 11:54:13",
+      "updated_at": "2024-07-23 11:54:13"
+    },
+    {
+      "uuid": "3b9e3d5513ee1be657e625f3899bb27c",
+      "puuid": "8c6daa95ab8fb56f46b46d5bf9603d9b",
+      "title": "PCB_Turbin",
+      "filename": "PCB_Turbin.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "a1dd0f57ff77495180db366e94d99030": 1,
+        "aef29e8c24a64ab48e311a86fade97aa": 1,
+        "c2803222ad4b48fb94db0de548a6280a": 2,
+        "1efb3a885b5b4aecb6d41221a8f4d86b": 1,
+        "b6402e9ae5a64d5db7518994bed82b08": 1,
+        "1e290c7a90d544e48cc87836e1699785": 1,
+        "c7ac6a490c4042279bac1af1934bc82b": 1,
+        "079e462bd9c940339dfbbd80a623632a": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "KY-010",
+          1,
+          "GP1F32R",
+          "ANEMOMETER",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "CHINA (Aliexpress)",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "BATTERY 18650",
+          1,
+          "ADAFRUIT 18650 BATTERY HOLDER KFLMIAMI420 BH-18650-PC-ND",
+          "BAT1",
+          {
+            "Manufacturer Part": "battery",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1N4007",
+          2,
+          "DO-41_BD2.4-L4.7-P8.70-D0.9-RD",
+          "D1,D2",
+          {
+            "Manufacturer Part": "1N4007",
+            "Manufacturer": "SEMTECH",
+            "Supplier": "LCSC",
+            "Supplier Part": "C106903"
+          }
+        ],
+        [
+          "LED-0603_R",
+          1,
+          "LED0603_RED",
+          "LED1",
+          {
+            "Manufacturer Part": "19-217/R6C-AL1M2VY/3T",
+            "Manufacturer": "EVERLIGHT(台湾亿光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C72044"
+          }
+        ],
+        [
+          "12V 3A DC Motor",
+          1,
+          "12V 3A  DC MOTOR",
+          "M1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "WEMOS MICROSD CARD SHIELD",
+          1,
+          "MICROSD SHIELD WEMOS D1 MINI",
+          "U1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "18650 Battery Shield V3",
+          1,
+          "18650_BATTERY_SHIELD_V3",
+          "U3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": "18650 Battery Shield V3"
+          }
+        ],
+        [
+          "INA219",
+          1,
+          "INA219",
+          "U5",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ]
+      ],
+      "updateTime": 1721659425,
+      "createTime": 1721638170,
+      "histories": [],
+      "created_at": "2024-07-22 15:49:30",
+      "updated_at": "2024-07-22 21:43:45"
+    }
+  ],
+  "sort": [
+    "d2dc63c82b11ee7aacb9361a8a51ac73",
+    "2472f348354de4cf55d86261097c1fb8",
+    "de6b0fe0bd096ed0550c167052cdec41",
+    "955341a90bc6bcc964f0225c9d1d40f2"
+  ],
+  "title": "Turbin",
+  "foldername": "Turbin",
+  "schfilename": "Turbin.json",
+  "schfilemtime": 1721710827273
+}

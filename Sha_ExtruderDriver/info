@@ -1,0 +1,287 @@
+{
+  "uuid": "b24f27a9df08577efa2bca87618e7bda",
+  "path": "Offline/Sha_ExtruderDriver",
+  "name": "Sha_ExtruderDriver",
+  "content": "",
+  "created_at": "2024-12-03 13:51:45",
+  "updated_at": "2024-12-06 23:11:36",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "402d8973731b6b35ac2fa19ec4dd7316",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f942f8e244294bb7b1d0d99120824d33": 1,
+        "aa1268c773fd40cbab330a85af95354d": 1,
+        "01bf86409a754cc0b766af0064a4cd55": 1,
+        "5b41b4b7fe7949839d9305df761d200d": 1,
+        "daa3cf3493c84fa3b0b6a6d427d23f0b": 2,
+        "7194d9d6c9f74e3ab5322c3720c537aa": 1,
+        "9fd14109a5f7400d91ee7a3921428e18": 1,
+        "7a046cf4b38c4fccae7253b92b37c0e4": 1,
+        "8b9551dd98ca4554bc31a244ddf3a7bb": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "1u",
+          1,
+          "CAP-D10.0×F5.0",
+          "C1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "DC005-2.0MM",
+          2,
+          "DC-IN-TH_DC005",
+          "DC1,DC2",
+          {
+            "Manufacturer Part": "DC005-2.0MM",
+            "Manufacturer": "SOFNG",
+            "Supplier": "LCSC",
+            "Supplier Part": "C111567"
+          }
+        ],
+        [
+          "Stepper",
+          1,
+          "CONN-TH_4P-P2.50-XH2.54-4P",
+          "P1",
+          {
+            "Manufacturer Part": "XH-2.54-4P",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900003933"
+          }
+        ],
+        [
+          "WEMOS_D1_MINI_PRO4",
+          1,
+          "DIP-16_WEMOS_D1_MINI_PRO4",
+          "U1",
+          {
+            "Manufacturer Part": "Wemos_D1_mini_Pro4",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2837266"
+          }
+        ],
+        [
+          "XWF-HX711",
+          1,
+          "XFW-HX711",
+          "U2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "TMC2208",
+          1,
+          "DRV8825",
+          "U3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "ECO-WEMOS-D1-OLED",
+          1,
+          "ECO-WEMOS-D1-OLED SHIELD",
+          "U4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "LoadCell",
+          1,
+          "CONN-TH_XH2.54-6P",
+          "U5",
+          {
+            "Manufacturer Part": "XH2.54-6P 直插",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900000754"
+          }
+        ],
+        [
+          "Encoder",
+          1,
+          "CONN-TH_XH2.54-5P",
+          "U6",
+          {
+            "Manufacturer Part": "XH_2.54_5P",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900004239"
+          }
+        ]
+      ],
+      "updateTime": 1733501496,
+      "createTime": 1733208706,
+      "histories": [],
+      "created_at": "2024-12-03 13:51:46",
+      "updated_at": "2024-12-06 23:11:36"
+    },
+    {
+      "uuid": "38ce6931f952157a6ee54ad87420acb6",
+      "puuid": "b24f27a9df08577efa2bca87618e7bda",
+      "title": "PCB_Sha_ExtruderDriver",
+      "filename": "PCB_Sha_ExtruderDriver.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "986ca71d43e94c6f946f952ade660c20": 1,
+        "1337670005c6484c999f9b4c272ee9fe": 2,
+        "5bb3f311460a456db69c8ebd122bf0ba": 1,
+        "562d77a546a24e4f83c78207be689c00": 1,
+        "a12d566dee5340a59aaa37e73c883377": 1,
+        "54b70f2d57834eb1a1b7e85f3cd8bd88": 1,
+        "d85b592158a847a3bc574e817329ad95": 1,
+        "2412ff1a5cde4d0a98768e793bc9c04d": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "1u",
+          1,
+          "CAP-D10.0×F5.0",
+          "C1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "DC005-2.0MM",
+          1,
+          "DC-IN-TH_DC005",
+          "DC1",
+          {
+            "Manufacturer Part": "DC005-2.0MM",
+            "Manufacturer": "SOFNG",
+            "Supplier": "LCSC",
+            "Supplier Part": "C111567"
+          }
+        ],
+        [
+          "Stepper",
+          1,
+          "CONN-TH_4P-P2.50-XH2.54-4P",
+          "P1",
+          {
+            "Manufacturer Part": "XH-2.54-4P",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900003933"
+          }
+        ],
+        [
+          "WEMOS_D1_MINI_PRO4",
+          1,
+          "DIP-16_WEMOS_D1_MINI_PRO4",
+          "U1",
+          {
+            "Manufacturer Part": "Wemos_D1_mini_Pro4",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2837266"
+          }
+        ],
+        [
+          "XWF-HX711",
+          1,
+          "XFW-HX711",
+          "U2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "TMC2208",
+          1,
+          "DRV8825",
+          "U3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "ECO-WEMOS-D1-OLED",
+          1,
+          "ECO-WEMOS-D1-OLED SHIELD",
+          "U4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "LoadCell",
+          1,
+          "CONN-TH_XH2.54-6P",
+          "U5",
+          {
+            "Manufacturer Part": "XH2.54-6P 直插",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900000754"
+          }
+        ]
+      ],
+      "updateTime": 1733501495,
+      "createTime": 1733283473,
+      "histories": [],
+      "created_at": "2024-12-04 10:37:53",
+      "updated_at": "2024-12-06 23:11:35"
+    }
+  ],
+  "sort": [],
+  "title": "Sha_ExtruderDriver",
+  "foldername": "Sha_ExtruderDriver",
+  "schfilename": "Sha_ExtruderDriver.json",
+  "schfilemtime": 1733501496800
+}
