@@ -1,0 +1,287 @@
+{
+  "uuid": "7f58b119e039eaba97564f70e5f9b3b9",
+  "path": "Offline/PYZ_Reaktor",
+  "name": "PYZ_Reaktor",
+  "content": "",
+  "created_at": "2025-04-29 02:59:35",
+  "updated_at": "2025-05-17 07:48:54",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "29682f3893b2fa9c813be7678cde5164",
+      "title": "PYZ_Reaktor",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f942f8e244294bb7b1d0d99120824d33": 1,
+        "0b2d026a81b74e19a995b3509dba025a": 1,
+        "9fd14109a5f7400d91ee7a3921428e18": 1,
+        "aa1268c773fd40cbab330a85af95354d": 1,
+        "d73d9e20e9644c3983e910f272a9782b": 1,
+        "daa3cf3493c84fa3b0b6a6d427d23f0b": 1,
+        "da85efb77378462aaaa3d5ff7db1c1dd": 2,
+        "404aa9221ff94de597b8734806e7c74f": 2,
+        "7194d9d6c9f74e3ab5322c3720c537aa": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "1N4007",
+          2,
+          "DO-41_BD2.4-L4.7-P8.70-D0.9-RD",
+          "D1,D3",
+          {
+            "Manufacturer Part": "1N4007",
+            "Manufacturer": "SEMTECH",
+            "Supplier": "LCSC",
+            "Supplier Part": "C106903"
+          }
+        ],
+        [
+          "DC005-2.0MM",
+          1,
+          "DC-IN-TH_DC005",
+          "DC3",
+          {
+            "Manufacturer Part": "DC005-2.0MM",
+            "Manufacturer": "SOFNG",
+            "Supplier": "LCSC",
+            "Supplier Part": "C111567"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x1",
+          2,
+          "HDR-M-2.54_1X1",
+          "J1,J2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C81276"
+          }
+        ],
+        [
+          "Stepper",
+          1,
+          "CONN-TH_4P-P2.50-XH2.54-4P",
+          "P1",
+          {
+            "Manufacturer Part": "XH-2.54-4P",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900003933"
+          }
+        ],
+        [
+          "LoadCell",
+          1,
+          "CONN-TH_XH2.54-6P",
+          "P2",
+          {
+            "Manufacturer Part": "XH2.54-6P 直插",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900000754"
+          }
+        ],
+        [
+          "MAX6675",
+          1,
+          "CONN-TH_XH2.54-5P",
+          "P3",
+          {
+            "Manufacturer Part": "XH-2.54-5P",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900003918"
+          }
+        ],
+        [
+          "WEMOS_D1_MINI_PRO4",
+          1,
+          "DIP-16_WEMOS_D1_MINI_PRO4",
+          "U1",
+          {
+            "Manufacturer Part": "Wemos_D1_mini_Pro4",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2837266"
+          }
+        ],
+        [
+          "JZ-53E13",
+          1,
+          "JZ-53E13",
+          "U2",
+          {
+            "Manufacturer Part": "JZ-53E13",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "XWF-HX711",
+          1,
+          "XFW-HX711",
+          "U4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ]
+      ],
+      "updateTime": 1747442219,
+      "createTime": 1745374813,
+      "histories": [],
+      "created_at": "2025-04-23 09:20:13",
+      "updated_at": "2025-05-17 07:36:59"
+    },
+    {
+      "uuid": "44917a66106d3d9dab88635d658779da",
+      "title": "PCB_PYZ_Reaktor",
+      "filename": "PCB_PYZ_Reaktor.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "2412ff1a5cde4d0a98768e793bc9c04d": 1,
+        "562d77a546a24e4f83c78207be689c00": 1,
+        "d85b592158a847a3bc574e817329ad95": 1,
+        "a12d566dee5340a59aaa37e73c883377": 1,
+        "218c6142f4d24a52b02269665d779d95": 1,
+        "c2803222ad4b48fb94db0de548a6280a": 2,
+        "1337670005c6484c999f9b4c272ee9fe": 1,
+        "19c77e72422b43b59c26b9fa67af5de4": 2,
+        "5bb3f311460a456db69c8ebd122bf0ba": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "AC-DC 5V 700mA 3.5W Power Supply",
+          1,
+          "POWER_SUPPLY_30X20",
+          "DC1",
+          {
+            "Manufacturer Part": "AC-DC 5V 700mA 3.5W Power Supply",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "HDR-M-2.54_1x3",
+          1,
+          "HDR-M-2.54_1X3",
+          "J1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C180248"
+          }
+        ],
+        [
+          "CONN-TH_2P-P5.08",
+          2,
+          "CONN-TH_2P-P5.08",
+          "P1,P2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "MAX6675",
+          1,
+          "CONN-TH_XH2.54-5P",
+          "P3",
+          {
+            "Manufacturer Part": "XH-2.54-5P",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900003918"
+          }
+        ],
+        [
+          "IRLZ44NPBF-HXY",
+          2,
+          "TO-220-3_L9.9-W4.5-P2.54-L-1",
+          "Q1,Q2",
+          {
+            "Manufacturer Part": "IRLZ44NPBF-HXY",
+            "Manufacturer": "HXY MOSFET(华轩阳电子)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C22367197"
+          }
+        ],
+        [
+          "10k",
+          2,
+          "R_AXIAL-0.3",
+          "R1,R2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "ADASLABS_RELAY_SONGLE_5V",
+          2,
+          "SONGLE 5V RELAY",
+          "SRD1,SRD2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": "undefined"
+          }
+        ],
+        [
+          "WEMOS_D1_MINI_PRO4",
+          1,
+          "DIP-16_WEMOS_D1_MINI_PRO4",
+          "U1",
+          {
+            "Manufacturer Part": "Wemos_D1_mini_Pro4",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2837266"
+          }
+        ]
+      ],
+      "updateTime": 1747442934,
+      "createTime": 1745383502,
+      "histories": [],
+      "created_at": "2025-04-23 11:45:02",
+      "updated_at": "2025-05-17 07:48:54"
+    }
+  ],
+  "sort": [],
+  "title": "PYZ_Reaktor",
+  "foldername": "PYZ_Reaktor",
+  "schfilename": "PYZ_Reaktor.json",
+  "schfilemtime": 1747442219803
+}
